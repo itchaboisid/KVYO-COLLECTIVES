@@ -96,7 +96,7 @@
             <!-- KAYO Collectives Brand Logo -->
             <a href="#home" class="flex items-center group">
             <img 
-        src="KAYO.png" 
+        src="image/KAYO.png" 
         alt="KAYO Collectives Logo" 
         class="h-14 sm:h-16 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
                 />
@@ -221,7 +221,7 @@
     <!-- Replaced shirt icon with a container for your shirt image -->
     <div class="w-29 h-29 mx-auto rounded-xl bg-kayo-black border border-kayo-green/40 flex items-center justify-center overflow-hidden mb-4 p-2">
         <img 
-            src="SAMPLE SHIRT.png"" 
+            src="image/SAMPLE SHIRT.png"" 
             alt="KAYO Don't Waste My Time Tee" 
             class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-300"
         />
@@ -356,14 +356,14 @@
                 <!-- Products Grid -->
                 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8" id="product-grid">
                     
-                    <!-- Item 1 -->
+                   
                     <!-- Item 1 -->
 <div class="product-item group rounded-2xl bg-kayo-card border border-kayo-border overflow-hidden hover:border-kayo-green transition-all duration-300 flex flex-col justify-between" data-category="tops">
     <!-- Image Cover Container -->
     <div class="relative w-full h-72 sm:h-80 bg-kayo-black overflow-hidden">
         <span class="absolute top-3 left-3 z-10 bg-kayo-green text-kayo-black text-[10px] font-extrabold px-2 py-0.5 rounded uppercase shadow-md">NEW RELEASE</span>
         <img 
-            src="WHITE DESIGN.png" 
+            src="image/WHITE DESIGN.png" 
             alt="KAYO Don't Waste My Time Tee" 
             class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
         />
@@ -390,7 +390,7 @@
     <div class="relative w-full h-72 sm:h-80 bg-kayo-black overflow-hidden">
         <span class="absolute top-3 left-3 z-10 bg-kayo-green text-kayo-black text-[10px] font-extrabold px-2 py-0.5 rounded uppercase shadow-md">NEW RELEASE</span>
         <img 
-            src="BLACK DESIGN.png" 
+            src="image/BLACK DESIGN.png" 
             alt="KAYO Don't Waste My Time Tee" 
             class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
         />
